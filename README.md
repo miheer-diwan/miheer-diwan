@@ -1,6 +1,6 @@
 ### Hey there, my name is Miheer👋
 
-- 🌱 I’m a Robotics Master's student at Worcester Polytechnic Institute
+- 🌱 I’m a Robotics Master's student at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering)
   
 - 🔭 I’m interested in Computer Vision, Machine Learning and Autonomous Vehicles
   
