@@ -6,7 +6,7 @@
   
 - 📫 You can reach me at miheer.diwan@gmail.com
   
-- <a href=" www.linkedin.com/in/miheer-diwan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- My linkedin profile:     <a href="https://www.linkedin.com/in/mayankysharma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 - Skills:
