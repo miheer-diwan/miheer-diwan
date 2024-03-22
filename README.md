@@ -1,7 +1,7 @@
-### Hi there, I am Miheer👋
+### Hey there, my name is Miheer👋
 
-- 🔭 I’m interested in Robotics, Computer Vision and Machine Learning
 - 🌱 I’m a Robotics Master's student at Worcester Polytechnic Institute
+- 🔭 I’m interested in Computer Vision, Machine Learning and Autonomous Vehicles
 - 📫 You can reach me at miheer.diwan@gmail.com
 - My LinkedIn Profile: https://www.linkedin.com/in/miheer-diwan/
 
