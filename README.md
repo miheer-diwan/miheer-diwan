@@ -2,7 +2,7 @@
 
 - 🌱 I’m a Robotics Master's student at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering)
   
-- 🔭 **Domain Skills**:  Perception, Machine Learning, Localisation, Aerial Robotics, Autonomous Vehicles 
+- 🔭 **Domain Skills**:  Perception, Machine Learning, Localization, Aerial Robotics, Autonomous Vehicles 
   
 - 📫 You can reach me at miheer.diwan@gmail.com
   
