@@ -2,7 +2,7 @@
 
 - 🌱 I’m a Robotics Master's student at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering)
   
-- 🔭 **Domain Skills**:  Perception, Machine Learning, Localization, Aerial Robotics, Autonomous Vehicles 
+- 🔭 **Domain Skills**:  Perception, Localization, Deep Learning, ADAS, Aerial Robotics, State Estimation, Sensor Fusion, Calibration 
   
 - 📫 You can reach me at miheer.diwan@gmail.com
   
@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"> 
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+Software : Python, C++, ROS/ Gazebo, OpenCV, PyTorch, TensorFlow, CUDA, TensorRT, NumPy, SciPy, PCL, Open3D,
+scikit-learn, Matplotlib, MATLAB/ Simulink, Docker, Linux, Git, LaTeX, SolidWorks, Blender, CoppeliaSim
+Hardware : DJI Tello EDU, Jetson Orin Nano, Arduino, Raspberry Pi, Yaskawa Motoman MH5, Rapid Prototyping
+Architectures : YOLO, CNN, R-CNN, VGG16, ResNet18, DenseNet, LSTM, TCN, HomographNet, Transformers, NeRF
 
 
 
