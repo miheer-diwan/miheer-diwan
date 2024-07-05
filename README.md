@@ -1,6 +1,6 @@
 ## Hey, my name is Miheer
 
-I’m a Robotics Master's engineer from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) working at the intersection of Robotics, Computer Vision and Deep Learning
+I’m a Robotics engineer from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) working at the intersection of Robotics, Computer Vision and Deep Learning
 
 **Domain Skills**:  Perception, Localization, Deep Learning, ADAS, Aerial Robotics, State Estimation, Sensor Fusion, Calibration
 
