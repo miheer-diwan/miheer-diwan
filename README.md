@@ -4,7 +4,7 @@
 
 
 
-## [Portfolio](https://miheer-diwan.github.io) / [LinkedIn](https://www.linkedin.com/in/miheer-diwan"><LinkedIn>)
+## [Portfolio](https://miheer-diwan.github.io) / [LinkedIn](https://www.linkedin.com/in/miheer-diwan)
 
 
  <!-- <a href="https://www.linkedin.com/in/miheer-diwan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
