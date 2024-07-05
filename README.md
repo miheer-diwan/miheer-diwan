@@ -1,8 +1,8 @@
 ## Hey, my name is Miheer
 
-- 🌱 I’m a Robotics Master's student at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering)
-  
-- 🔭 **Domain Skills**:  Perception, Localization, Deep Learning, ADAS, Aerial Robotics, State Estimation, Sensor Fusion, Calibration
+I’m a Robotics Master's student at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering)
+
+**Domain Skills**:  Perception, Localization, Deep Learning, ADAS, Aerial Robotics, State Estimation, Sensor Fusion, Calibration
 
 - [Portfolio](https://miheer-diwan.github.io)
   
