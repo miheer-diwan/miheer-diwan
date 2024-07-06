@@ -3,8 +3,7 @@
  I’m a Robotics engineer from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) working at the intersection of Robotics, Computer Vision and Deep Learning
 
 
-
-### [Portfolio](https://miheer-diwan.github.io) / [LinkedIn](https://www.linkedin.com/in/miheer-diwan)
+**[Portfolio](https://miheer-diwan.github.io)** / **[LinkedIn](https://www.linkedin.com/in/miheer-diwan)**
 ## 
 
  <!-- <a href="https://www.linkedin.com/in/miheer-diwan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
