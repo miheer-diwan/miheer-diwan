@@ -1,11 +1,11 @@
 ## Hey, my name is Miheer!
 
-### I’m a Robotics engineer from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) working at the intersection of Robotics, Computer Vision and Deep Learning
+ I’m a Robotics engineer from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) working at the intersection of Robotics, Computer Vision and Deep Learning
 
 
 
-## [Portfolio](https://miheer-diwan.github.io) / [LinkedIn](https://www.linkedin.com/in/miheer-diwan)
-
+### [Portfolio](https://miheer-diwan.github.io) / [LinkedIn](https://www.linkedin.com/in/miheer-diwan)
+## 
 
  <!-- <a href="https://www.linkedin.com/in/miheer-diwan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://miheer-diwan.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> -->
@@ -18,11 +18,11 @@
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 **Domain Skills** : Perception, Localization, Deep Learning, ADAS, Aerial Robotics, State Estimation, Sensor Fusion, Calibration
-
+##
 **Software** : Python, C++, ROS/ Gazebo, OpenCV, PyTorch, TensorFlow, CUDA, TensorRT, NumPy, SciPy, PCL, Open3D, scikit-learn, Matplotlib, MATLAB/ Simulink, Docker, Linux, Git, LaTeX, SolidWorks, Blender, CoppeliaSim
-
+##
 **Hardware** : DJI Tello EDU, Jetson Orin Nano, Arduino, Raspberry Pi, Yaskawa Motoman MH5, 3D Printing, Rapid Prototyping
-
+##
 **Network Architectures** : YOLO, CNN, R-CNN, VGG16, ResNet18, DenseNet, LSTM, TCN, HomographNet, Transformers, NeRF
 
 
