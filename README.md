@@ -1,8 +1,8 @@
-## Hey, my name is Miheer!
+## Hi, my name is Miheer!
 
-- I’m a Robotics engineer from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) working at the intersection of Computer Vision and Deep Learning.
-- [Portfolio](https://miheer-diwan.github.io) / [LinkedIn](https://www.linkedin.com/in/miheer-diwan)
-- You can reach me by email: miheer.diwan@gmail.com
+### - I’m a Robotics engineer from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) working at the intersection of Computer Vision and Deep Learning.
+### - [Portfolio](https://miheer-diwan.github.io) / [LinkedIn](https://www.linkedin.com/in/miheer-diwan)
+### - You can reach me by email: miheer.diwan@gmail.com
 ## 
 
  <!-- <a href="https://www.linkedin.com/in/miheer-diwan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
