@@ -1,6 +1,6 @@
 ## Hi, my name is Miheer!
 
-### - I’m a Robotics engineer from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) working at the intersection of Computer Vision and Deep Learning.
+### - I’m a Robotics engineer from [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering) working at the intersection of Computer Vision and AI to bridge the Sim2Real gap.
 ### - [Portfolio](https://miheer-diwan.github.io) / [LinkedIn](https://www.linkedin.com/in/miheer-diwan)
 ### - You can reach me by email: miheer.diwan@gmail.com
 ## 
