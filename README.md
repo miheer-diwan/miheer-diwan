@@ -1,8 +1,8 @@
 # Hi, my name is Miheer!
 
- - I’m a Robotics engineer working at the intersection of Computer Vision and AI to bridge the Sim2Real gap.
+ - I’m a Robotics engineer working at the intersection of Computer Vision and AI to bridge the Sim-to-Real gap.
  - I am actively seeking internships/ full-time opportunities in Robotics, Computer Vision, and AI.
- - [Portfolio](https://miheer-diwan.github.io) / [LinkedIn](https://www.linkedin.com/in/miheer-diwan)
+ - [`Website`](https://miheer-diwan.github.io) - [`LinkedIn`](https://www.linkedin.com/in/miheer-diwan)
  - You can reach me by email: miheer.diwan@gmail.com
 ## Skills
 
@@ -20,7 +20,7 @@
 ##
 **Software** : Python, C++, ROS/ Gazebo, OpenCV, PyTorch, TensorFlow, CUDA, TensorRT, NumPy, SciPy, PCL, Open3D, scikit-learn, Matplotlib, MATLAB/ Simulink, Docker, Linux, Git, LaTeX, SolidWorks, Blender, CoppeliaSim
 ##
-**Hardware** : DJI Tello EDU, Jetson Orin Nano, Arduino, Raspberry Pi, Yaskawa Motoman MH5, 3D Printing, Rapid Prototyping
+**Hardware** : DJI Tello EDU, Jetson Orin Nano, Arduino, Raspberry Pi, Yaskawa Motoman MH5, 3D Printing, Rapid Prototyping, Oak-D Pro, Realsense D435, Velodyne VLP-16 Lidar
 ##
 **Network Architectures** : YOLO, CNN, R-CNN, VGG16, ResNet18, DenseNet, LSTM, TCN, HomographNet, Transformers, NeRF
 
