@@ -2,7 +2,7 @@
 
  - I’m a Robotics engineer working at the intersection of Computer Vision and AI to bridge the Sim-to-Real gap.
  - I am actively seeking internships/ full-time opportunities in Robotics, Computer Vision, and AI.
- - [`Website`](https://miheer-diwan.github.io) - [`LinkedIn`](https://www.linkedin.com/in/miheer-diwan)
+ - [**Website**](https://miheer-diwan.github.io) - [**LinkedIn**](https://www.linkedin.com/in/miheer-diwan)
  - You can reach me by email: miheer.diwan@gmail.com
 ## Skills
 
